@@ -1,2 +1,2 @@
 # JSONAPI.NET
-A .NET Library for providing a RESTful Web API which uses .NET Web API 2.0 and conforms to the JSON API standard (http://jsonapi.org) 
+A .NET Library providing classes to easily implement JSON API standard (http://jsonapi.org) in a .NET Web API project.
